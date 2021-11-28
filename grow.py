@@ -1,7 +1,7 @@
 """
 First gaming project. 10/23/16
 
-Anmol Nagpal.
+Anmol Nagpal
 """
 
 import pygame
